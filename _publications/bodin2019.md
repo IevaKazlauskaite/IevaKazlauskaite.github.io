@@ -2,7 +2,7 @@
 title: "Modulating Surrogates for Bayesian Optimization"
 collection: publications
 permalink: /publication/
-date: 2019-06
+date: 2019-06-01
 conf: 'International Conference on Machine Learning (ICML)'
 # conf_shortname: ACM MM
 year: 2020
