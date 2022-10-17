@@ -1,0 +1,20 @@
+---
+title: "Gaussian Process Latent Variable Alignment Learning"
+collection: publications
+permalink: /publication/
+date: 2019-04
+conf: 'International Conference on Artificial Intelligence and Statistics (AISTATS)'
+# conf_shortname: ACM MM
+year: 2019
+author: Ieva Kazlauskaite, Carl Henrik Ek, Neill DF Campbell
+paperurl: 'http://proceedings.mlr.press/v89/kazlauskaite19a/kazlauskaite19a.pdf'
+codeurl: 'https://github.com/IevaKazlauskaite/GPLVM_alignment'
+arxiv: 'https://arxiv.org/abs/1803.02603'
+# posterlink: /publications/assets/AISTATS2019_poster.pdf
+# posterlink: 'https://dl.acm.org/citation.cfm?id=3240553'
+additional: true
+
+# venue: 'Journal 1'
+# paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
+# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
