@@ -1,0 +1,20 @@
+---
+title: "Compositional uncertainty in deep Gaussian processes"
+collection: publications
+permalink: /publication/
+date: 2020-08-27
+conf: 'Conference on Uncertainty in Artificial Intelligence (UAI)'
+# conf_shortname: ACM MM
+year: 2020
+author: Ivan Ustyuzhaninov*, <strong>IK* </strong>, Markus Kaiser, Erik Bodin, Neill Campbell, Carl Henrik Ek
+paperurl: 'http://proceedings.mlr.press/v124/ustyuzhaninov20a/ustyuzhaninov20a.pdf'
+codeurl: 'https://github.com/IevaKazlauskaite/compositional_uncertainty'
+arxiv: 'https://arxiv.org/abs/1909.07698'
+# posterlink: /publications/assets/AISTATS2019_poster.pdf
+# posterlink: 'https://dl.acm.org/citation.cfm?id=3240553'
+additional: true
+
+# venue: 'Journal 1'
+# paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
+# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+---
