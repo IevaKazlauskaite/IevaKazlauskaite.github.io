@@ -3,7 +3,7 @@ title: "Machine Learning for Sciences: Notes from Recent Experiences"
 collection: publications
 permalink: /publication/
 date: 2022-09-19
-conf: 'Dagstuhl Seminar: Machine Learning for Science: Bridging Data-driven and Mechanistic Modelling'
+conf: '[Dagstuhl Seminar: Machine Learning for Science: Bridging Data-driven and Mechanistic Modelling](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22382)'
 # conf_shortname: ACM MM
 year: 2022
 author: Invited talk
