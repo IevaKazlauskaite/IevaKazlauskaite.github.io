@@ -8,7 +8,7 @@ date: 2022-09-19
 event: 'Dagstuhl Seminar: Machine Learning for Science: Bridging Data-driven and Mechanistic Modelling'
 eventlink: 'https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22382'
 year: 2022
-author: Invited talk
+# author: Invited talk
 datelocation:  Schloss Dagstuhl - Leibniz Center for Informatics, Germany, 19/09/2022
 #paperurl: 'http://proceedings.mlr.press/v89/kazlauskaite19a/kazlauskaite19a.pdf'
 #codeurl: 'https://github.com/IevaKazlauskaite/GPLVM_alignment'
