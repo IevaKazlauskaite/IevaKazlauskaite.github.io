@@ -12,5 +12,5 @@ author_profile: true
 {% include base_path %}
 <hr width="80%">
 {% for post in site.publications reversed %}
-  {% include archive-talks.html %}
+  {% include talks-pub.html %}
 {% endfor %}
