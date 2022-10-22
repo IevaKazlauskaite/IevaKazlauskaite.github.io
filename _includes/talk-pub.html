@@ -33,14 +33,14 @@
         {{ title }}
       {% endif %}
     </strong></font>
-
-     {% if post.datelocation %}
-    <br><font size='2.5'>{{post.datelocation}}</font>
-    {% endif %}
     
     {% if post.event %}
-     <br><font size='2.5'><a href="{{ post.eventlink }}">{{ post.event }}</a></font>
+     <br><font size='2.5'><a href="{{ post.eventlink }}">At {{ post.event }}</a></font>
      {% endif %}
+    
+    % if post.datelocation %}
+    <br><font size='2.5'>{{post.datelocation}}</font>
+    {% endif %}
     
     {% if post.author %}
     <br><i><font size='3'>{{ post.author }}</font></i>
