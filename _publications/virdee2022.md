@@ -12,7 +12,7 @@ author: Mala Virdee, Markus Kaiser, Emily Shuckburgh, Carl Henrik Ek, <strong>Ie
 arxiv: 'https://arxiv.org/abs/2211.16367'
 # posterlink: /publications/assets/AISTATS2019_poster.pdf
 # posterlink: 'https://dl.acm.org/citation.cfm?id=3240553'
-additional: false
+additional: true
 
 # venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
