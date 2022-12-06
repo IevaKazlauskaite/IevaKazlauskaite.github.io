@@ -15,6 +15,7 @@ datelocation:  Schloss Dagstuhl - Leibniz Center for Informatics, Germany, 19/09
 #arxiv: 'https://arxiv.org/abs/1803.02603'
 # posterlink: /publications/assets/AISTATS2019_poster.pdf
 # posterlink: 'https://dl.acm.org/citation.cfm?id=3240553'
+illustration: /images/Ieva_Kazlauskaite_dagstuhl.jpg
 slideLink: /talks/assets/Dagstuhl_slides.pdf
 additional: true
 
