@@ -15,8 +15,8 @@ I hold a Biometrika Postdoctoral Research Fellowship at the Department of Engine
 </font>
 
 <!-- <img align="right" width="50%" src="/images/Ieva_Kazlauskaite_dagstuhl.jpg"> -->
-
-<font size="-0.5">
+<p>
+<font size="-1.0">
 My current research focuses on the following themes:
 
 <ul>
