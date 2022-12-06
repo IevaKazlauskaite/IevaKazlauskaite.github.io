@@ -15,3 +15,12 @@ I hold a Biometrika Postdoctoral Research Fellowship at the Department of Engine
 </font>
 
 <img align="right" width="50%" src="/images/Ieva_Kazlauskaite_dagstuhl.jpg">
+
+
+My current research focuses on the following themes:
+
+<ul>
+  <li>Scalable and automated inference in physical models</li>
+  <li>Bayesian inverse problems</li>
+  <li>Optimal design of experiments</li>
+</ul> 
