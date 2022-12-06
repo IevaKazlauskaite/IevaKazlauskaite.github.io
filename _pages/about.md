@@ -14,7 +14,7 @@ I hold a Biometrika Postdoctoral Research Fellowship at the Department of Engine
   Prior to that, I was a Research Associate in the same Department funded by the EPSRC <a href="https://iconicmath.org/" target="_blank">ICONIC</a> grant. I completed my doctoral degree at the University of Bath, UK in 2020 working on Gaussian processes. During my doctoral studies I spent 3 years in industry as a Research Engineer at the Frostbite Physics Team at Electronic Arts, Guildford, UK. I hold an MMath degree from Durham University, UK.
 </font>
 
-<img align="right" width="50%" src="/images/Ieva_Kazlauskaite_dagstuhl.jpg">
+<!-- <img align="right" width="50%" src="/images/Ieva_Kazlauskaite_dagstuhl.jpg"> -->
 
 
 My current research focuses on the following themes:
