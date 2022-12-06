@@ -16,7 +16,7 @@ I hold a Biometrika Postdoctoral Research Fellowship at the Department of Engine
 
 <!-- <img align="right" width="50%" src="/images/Ieva_Kazlauskaite_dagstuhl.jpg"> -->
 
-
+<font size="-0.5">
 My current research focuses on the following themes:
 
 <ul>
@@ -24,3 +24,4 @@ My current research focuses on the following themes:
   <li>Bayesian inverse problems</li>
   <li>Optimal design of experiments</li>
 </ul> 
+</font>
