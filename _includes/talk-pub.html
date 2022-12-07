@@ -45,6 +45,10 @@
     {% if post.author %}
     <br><i><font size='3'>{{ post.author }}</font></i>
     {% endif %}
+    
+    {% if post.illustration %}
+      <img align="right" width="30%" src="{{ post.illustration }}">
+      {% endif %}
 
     {% if post.conf %}
       <br><font size='3'><em>{{ post.conf }}{% if post.conf_shortname %}
@@ -76,9 +80,6 @@
       {% endif %}
       {% if post.slideLink %}
       <font size='2' color="LightSkyBlue"><a href=" {{ post.slideLink }} " >[Slides]</a></font>
-      {% endif %}
-      {% if post.illustration %}
-      <img align="right" width="50%" src="{{ post.illustration }}">
       {% endif %}
 
 
