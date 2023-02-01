@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <font size="-0.5">
-I hold a Biometrika Postdoctoral Research Fellowship at the Department of Engineering, University of Cambridge. I'm a Postdoctoral By-Fellow at Churchill College. 
+I hold a Biometrika Postdoctoral Research Fellowship at the Department of Engineering, University of Cambridge. I'm a visiting research at the British Antarctic Survey (BAS) working with Scott Hosking in the <a href="[https://www.bas.ac.uk/team/science-teams/ai-lab/" target="_blank">Artificial Intelligence Lab</a> and Robert Arthern in the <a href="https://www.bas.ac.uk/team/science-teams/ice-and-past-climate/" target="_blank">Ice Dynamics and Palaeoclimate team</a>. I'm also a Postdoctoral By-Fellow at Churchill College. 
   
   Prior to that, I was a Research Associate in the same Department funded by the EPSRC <a href="https://iconicmath.org/" target="_blank">ICONIC</a> grant. I completed my doctoral degree at the University of Bath, UK in 2020 working on Gaussian processes. During my doctoral studies I spent 3 years in industry as a Research Engineer at the Frostbite Physics Team at Electronic Arts, Guildford, UK. I hold an MMath degree from Durham University, UK.
 </font>
@@ -18,7 +18,7 @@ I hold a Biometrika Postdoctoral Research Fellowship at the Department of Engine
 <p>
 <p>
 <font size="-0.5">
-My current research focuses on the following themes:
+My current research focuses on the following themes, particularly with application to large scale physical models in climate science:
 
 <ul>
   <li>Scalable and automated inference in physical models</li>
