@@ -1,9 +1,9 @@
 ---
-title: "Optimisation of a global climate model ensemble for prediction of extreme heat days"
+title: "A locally time-invariant metric for climate model ensemble predictions of extreme risk"
 collection: publications
 permalink: /publication/
 date: 2022-11-26
-# conf: 'Under review'
+conf: 'Climate Informatics 2023'
 # conf_shortname: ACM MM
 year: 2022
 author: Mala Virdee, Markus Kaiser, Emily Shuckburgh, Carl Henrik Ek, <strong>Ieva Kazlauskaite</strong> 
