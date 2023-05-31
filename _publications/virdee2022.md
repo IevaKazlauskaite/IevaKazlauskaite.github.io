@@ -3,9 +3,9 @@ title: "A locally time-invariant metric for climate model ensemble predictions o
 collection: publications
 permalink: /publication/
 date: 2022-11-26
-conf: 'Climate Informatics 2023'
+conf: 'Climate Informatics'
 # conf_shortname: ACM MM
-year: 2022
+year: 2023
 author: Mala Virdee, Markus Kaiser, Emily Shuckburgh, Carl Henrik Ek, <strong>Ieva Kazlauskaite</strong> 
 # paperurl: 'http://proceedings.mlr.press/v119/bodin20a/bodin20a.pdf'
 # codeurl: 'https://github.com/IevaKazlauskaite/compositional_uncertainty'
