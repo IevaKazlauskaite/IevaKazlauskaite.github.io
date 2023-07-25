@@ -3,7 +3,7 @@ title: "Multi-fidelity experimental design for ice-sheet simulation"
 collection: publications
 permalink: /publication/
 date: 2022-12-01
-conf: 'NeurIPS Workshop onGaussian Processes, Spatiotemporal Modeling, and Decision-making Systems'
+conf: 'NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems'
 # conf_shortname: ACM MM
 year: 2022
 author: Pierre Thodoroff, Markus Kaiser, Rosie  Williams, Robert Arthern, J. Scott Hosking, Neil D. Lawrence, <strong>Ieva Kazlauskaite</strong> 
@@ -14,7 +14,7 @@ codeurl: 'https://github.com/pierthodo/multi_fidelity_experimental_design'
 posterlink: 'https://github.com/pierthodo/multi_fidelity_experimental_design'
 additional: true
 
-# venue: 'NeurIPS Workshop onGaussian Processes, Spatiotemporal Modeling, and Decision-making Systems'
+# venue: 'NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
