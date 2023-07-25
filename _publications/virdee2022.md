@@ -14,7 +14,7 @@ arxiv: 'https://arxiv.org/abs/2211.16367'
 # posterlink: 'https://dl.acm.org/citation.cfm?id=3240553'
 additional: true
 
-venue: 'Journal 1'
+# venue: 'Journal 1'
 # paperurl: 'https://dl.acm.org/citation.cfm?id=3240553'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
