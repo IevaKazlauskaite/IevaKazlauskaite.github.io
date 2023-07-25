@@ -5,7 +5,7 @@ permalink: /publication/
 date: 2023-04-06
 # conf: '[Dagstuhl Seminar: Machine Learning for Science: Bridging Data-driven and Mechanistic Modelling](https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22382)'
 # conf_shortname: ACM MM
-event: 'Research Seminar, University of T\"{u}bingen, Germany'
+event: 'Research Seminar, University of Tübingen, Germany'
 # eventlink: 'https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22382'
 year: 2023
 # author: Invited talk
